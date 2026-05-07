@@ -1,5 +1,3 @@
-
-=======
 # Retail Sales Analysis
 
 
