@@ -1,3 +1,8 @@
+
+=======
+# Retail Sales Analysis
+
+
 Este proyecto analiza un dataset de ventas de una tienda retail. El objetivo es limpiar, explorar y visualizar los datos para entender mejor el comportamiento de las ventas.
 
 ---
